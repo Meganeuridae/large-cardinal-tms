@@ -1,0 +1,15 @@
+.build/
+_opam/
+__pycache__/
+*.pyc
+*.vo
+*.vos
+*.vok
+*.glob
+*.aux
+*.log
+!verification/*.log
+.lia.cache
+.nia.cache
+.DS_Store
+docs/.latex-build/

@@ -1,0 +1,113 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.58in]{geometry}
+\usepackage{amsmath,amssymb,mathtools,microtype}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\setlength{\abovedisplayskip}{4pt}
+\setlength{\belowdisplayskip}{4pt}
+\newcommand{\ZF}{\mathsf{ZF}}
+\newcommand{\Trans}{\operatorname{Trans}}
+\newcommand{\Ord}{\operatorname{Ord}}
+\newcommand{\Card}{\operatorname{Card}}
+\newcommand{\Eq}{\mathsf{eq}}
+\newcommand{\Mem}{\mathsf{mem}}
+\newcommand{\Neg}{\mathsf{neg}}
+\newcommand{\Imp}{\mathsf{imp}}
+\newcommand{\All}{\mathsf{all}}
+\newcommand{\FormulaSet}{\mathcal F}
+\newcommand{\Sat}{\mathsf{Truth}}
+\begin{document}
+\begin{center}
+{\Large\bfseries ZF plus the existence of a Berkeley cardinal}\\[3pt]
+{\small First-order axiomatization for the Berkeley1399 verification package}
+\end{center}
+\textbf{Language and conventions.}
+Classical first-order logic with equality and the sole nonlogical symbol $\in$.
+Take universal closures of the displayed axioms. All sets, functions, ordinals,
+formula codes, and truth relations below are internal to this set theory.
+Neither Choice nor Dependent Choice is added.
+
+\textbf{ZF axioms.} In the two schemas, formulas may have arbitrary finite
+tuples of parameters $\bar p$; bound and auxiliary variables are chosen fresh.
+Write $x\subseteq a$ for $\forall t(t\in x\to t\in a)$ and $x^+=x\cup\{x\}$.
+\begin{align*}
+\text{Extensionality:}\quad&[\forall x(x\in a\leftrightarrow x\in b)]\to a=b.\\
+\text{Empty set:}\quad&\exists e\,\forall x\ (x\notin e).\\
+\text{Pairing:}\quad&\exists c\,\forall x\ [x\in c\leftrightarrow(x=a\lor x=b)].\\
+\text{Union:}\quad&\exists b\,\forall x\ [x\in b\leftrightarrow\exists y\in a\ (x\in y)].\\
+\text{Power set:}\quad&\exists b\,\forall x\ [x\in b\leftrightarrow x\subseteq a].\\
+\text{Infinity:}\quad&\exists a\ [\varnothing\in a\ \land\ \forall x\in a\ (x^+\in a)].\\
+\text{Separation:}\quad&\exists b\,\forall x\ [x\in b\leftrightarrow(x\in a\land\varphi(x,\bar p))],
+\quad b\notin\mathrm{FV}(\varphi).\\
+\text{Replacement:}\quad&[\forall x\in a\ \forall y\,\forall z\
+ ((\varphi(x,y,\bar p)\land\varphi(x,z,\bar p))\to y=z)]\\[-2pt]
+&\hspace{12mm}\to\exists b\,\forall y\ [y\in b\leftrightarrow\exists x\in a\ \varphi(x,y,\bar p)],
+\quad b\notin\mathrm{FV}(\varphi).\\
+\text{Foundation:}\quad&a\ne\varnothing\ \to\ \exists x\in a\ \forall y\in x\ (y\notin a).
+\end{align*}
+Replacement is the bounded-domain, partial-functional form: each input has
+\emph{at most} one output. Over the other ZF axioms it is equivalent to the usual
+total-functional schema.
+
+\textbf{Set-coded syntax and truth.}
+Use Kuratowski pairs $\langle a,b\rangle=\{\{a\},\{a,b\}\}$ and the least inductive
+set $\omega$. Let $\FormulaSet$ be the least set closed under the following constructors
+($i,k\in\omega$ and $p,q\in\FormulaSet$):
+\[
+\Eq(i,k)=\langle0,\langle i,k\rangle\rangle,\quad
+\Mem(i,k)=\langle1,\langle i,k\rangle\rangle,\quad
+\Neg(p)=\langle2,p\rangle,\quad
+\Imp(p,q)=\langle3,\langle p,q\rangle\rangle,\quad
+\All(i,p)=\langle4,\langle i,p\rangle\rangle.
+\]
+For a set $M$, let $E_M$ be the set of all function graphs $s:\omega\to M$.
+The first-order condition $\Sat_M(S)$ says $S\subseteq\FormulaSet\times E_M$ and the
+following five clauses hold for all indicated codes and assignments; abbreviate
+$\langle p,s\rangle\in S$ by $S(p,s)$:
+\begin{align*}
+S(\Eq(i,k),s)&\leftrightarrow s(i)=s(k), &
+S(\Mem(i,k),s)&\leftrightarrow s(i)\in s(k),\\
+S(\Neg(p),s)&\leftrightarrow\neg S(p,s), &
+S(\Imp(p,q),s)&\leftrightarrow(S(p,s)\to S(q,s)),\\
+S(\All(i,p),s)&\leftrightarrow\forall x\in M\ S(p,s[i\mapsto x]). &&
+\end{align*}
+Here $s[i\mapsto x]$ changes just coordinate $i$.
+Least closure, function graphs, evaluation, and updates are definable using
+$\in$ and $=$; ZF proves the required sets and truth relation exist.
+
+\textbf{The Berkeley axiom $B$.}
+Put $\Trans(M)\equiv\forall x\in M\ \forall y\in x\ (y\in M)$.
+$\Ord(\delta)$ means $\Trans(\delta)$ and $\in$ is a strict total order on $\delta$
+(Foundation supplies well-foundedness).
+$\Card(\delta)$ means $\Ord(\delta)$ and there is no bijection from any
+$\alpha\in\delta$ onto $\delta$.
+The additional axiom is the single sentence
+\[
+\boxed{\begin{aligned}
+\exists\delta\ \bigl[\Card(\delta)\land\omega\in\delta\ \land\
+\forall M\bigl((\Trans(M)\land\delta\in M)\ \to\ \exists S\,[\Sat_M(S)\ \land\qquad\qquad\\[-2pt]
+\forall\eta\in\delta\ \exists j\,\exists\kappa\,[j:M\to M\ \land\
+\eta\in\kappa\land\kappa\in\delta\land j(\kappa)\ne\kappa\land
+(\forall\alpha\in\kappa\ (j(\alpha)=\alpha))\qquad\\[-2pt]
+{}\land\ (\forall p\in\FormulaSet\ \forall s\in E_M\
+ (S(p,s)\leftrightarrow S(p,j\circ s)))],]\bigr)\bigr].
+\end{aligned}}
+\]
+Thus $j:(M,\in)\to(M,\in)$ is elementary and $\eta<\operatorname{crit}(j)<\delta$.
+One $j$ preserves \emph{all} internally coded formulas. This is a first-order
+sentence via the set-coded definitions above, not a separate axiom for each formula.
+
+\vfill
+{\footnotesize
+\textbf{Formal correspondence.}
+The package proves halting iff finite contradictory derivations in
+\texttt{BoundedReplacementND}; \texttt{TheoryTheorem.v} also gives the model
+identification with internal all-code Berkeley elementarity. The exact expanded
+sentence is \texttt{machine/berkeley-pure.sexpr}; the source axiom schemes are
+\texttt{machine/axioms.sexpr}. See \texttt{docs/proof-overview.md} for the precise
+metatheoretic boundary and variable conventions.
+\textbf{Reference:} Bagaria, Koellner, and Woodin, \emph{Large Cardinals Beyond Choice},
+\S3.2, Definition 3.4.}
+\end{document}

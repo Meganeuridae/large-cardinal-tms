@@ -1,0 +1,1202 @@
+BusyCoq.LibTactics
+BusyCoq.Helper
+BusyCoq.TM
+Berkeley.Syntax
+Berkeley.ConstructorArithmetic
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.SyntaxData
+Berkeley.Certificate
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorRegisters
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorStreams
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ProofSearchSyntax
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ProofFormula
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ProofPresentation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.TheoryIrreflexiveND
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.TheorySchemas
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicBridge
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicCertificates
+Closed under the global context
+Berkeley.LogicCertificateData
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicQuantifier
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicFresh
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.FormulaSemantics
+Closed under the global context
+Closed under the global context
+Berkeley.LogicGuardedFresh
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicSemantics
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedLogic
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedContext
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedInstantiation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedCapture
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StandardND
+Closed under the global context
+Berkeley.TheoryIrreflexiveHilbert
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.TheoryIrreflexiveObstruction
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicInstantiation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.LogicFinite
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StandardLogical
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StandardDistinctor
+Closed under the global context
+Berkeley.AugmentedIrreflexive
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StandardAugSound
+Closed under the global context
+Closed under the global context
+Berkeley.StandardAugEquivalence
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFProtected
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFConventional
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFConventionalND
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.TheoryFoundationSemantics
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedSemantics
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxBase
+Berkeley.BerkeleySyntaxInterpretation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPairs
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfaction
+Berkeley.BerkeleySyntaxSets
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxFunction
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxFormulaSet
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxRepresentations
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFBase
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxOmega
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxBijection
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxCardinal
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntax
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxEnvironment
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxElementary
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxScope
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionAtomic
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionLogical
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionAll
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionSemantics
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxWitnesses
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxLocal
+Closed under the global context
+Berkeley.BerkeleySyntaxCardinalWitness
+Closed under the global context
+Closed under the global context
+Berkeley.FormulaAlpha
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleyAlpha
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxBridge
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSentence
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFSeparation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFFoundation
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxNumerals
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPairInject
+Closed under the global context
+Berkeley.BerkeleySyntaxTags
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxCanonicalData
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFUnion
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFPowerset
+Closed under the global context
+Berkeley.BerkeleySyntaxZFEnvironments
+Closed under the global context
+Berkeley.BerkeleySyntaxFormulaInduction
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionUnique
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialTruth
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialUnion
+Closed under the global context
+Berkeley.BerkeleySyntaxGuardedQuantifiers
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialAtomicFormula
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialLogicalFormula
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialTruthFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialDownFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialWitnessFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialExtend
+Closed under the global context
+Berkeley.BerkeleySyntaxZFReplacement
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxTruthSlice
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxTruthSlices
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialNegation
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialImplication
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialUniversal
+Closed under the global context
+Berkeley.BerkeleySyntaxZFPaths
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxFunctionFacts
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxAtomicSlices
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialAtomic
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxPartialWitness
+Closed under the global context
+Berkeley.BerkeleySyntaxTruthGraphFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSatisfactionExists
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxCanonical
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxUniform
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFOmega
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFOmegaOrder
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFOrdinalOrder
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFFormulaSet
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFFormulaBound
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFPairStage
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFFiniteGraph
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageRun
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageAgreement
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageLocal
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageLocalFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageUniqueness
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageNested
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageNestedFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageNesting
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageFormula
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageInduction
+Closed under the global context
+Berkeley.BerkeleySyntaxZFStageCollection
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFPairClosedBound
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFTags
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSetup
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxSetupFinal
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxModel
+Closed under the global context
+Closed under the global context
+Berkeley.ZFConventionalSemantics
+Closed under the global context
+Closed under the global context
+Berkeley.FormulaRenaming
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.NatPermutations
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFVariableSemantics
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFVariableSyntax
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFPermuteFree
+Closed under the global context
+Closed under the global context
+Berkeley.StableLogic
+Closed under the global context
+Berkeley.StableContext
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StableInstantiation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StableCongruence
+Closed under the global context
+Berkeley.StableCapture
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StableAlpha
+Closed under the global context
+Closed under the global context
+Berkeley.StableBinderElimination
+Closed under the global context
+Berkeley.StandardPermutation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFVariableTheorems
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFBoundedReplacementCore
+Closed under the global context
+Berkeley.ZFBoundedReplacement
+Closed under the global context
+Closed under the global context
+Berkeley.ZFBoundedReplacementTotal
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ZFBoundedReplacementND
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.StateMap
+Berkeley.FiniteMachine
+Repair.Data
+Repair.Machine
+Closed under the global context
+Closed under the global context
+Berkeley.GenericSearch
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.AugmentedContradiction
+Closed under the global context
+Berkeley.RepairedSearchProof
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.Data
+Berkeley.Machine
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeTape
+Berkeley.RuntimeRegisters
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeCalls
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerRegisters
+Closed under the global context
+Closed under the global context
+Berkeley.ProofSearchProgram
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerSyntax
+Repair.RuntimeTape
+Repair.RuntimeRegisters
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeProgramData
+Repair.RuntimeProgram
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeCalls
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeSimulation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeJumps
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeTraces
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeJumpBounds
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimePC
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeProgress
+Closed under the global context
+Closed under the global context
+Repair.RuntimeMacro
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeEnabled
+Closed under the global context
+Closed under the global context
+Repair.BootstrapTape
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.BootstrapMachine
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.BootstrapReplay
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RuntimeEquivalence
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerData
+Repair.CompilerProof
+Closed under the global context
+Berkeley.RuntimeProgramData
+Berkeley.RuntimeProgram
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeSimulation
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeJumps
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeTraces
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SourceExecution
+Closed under the global context
+Repair.CompilerInstance
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerProof
+Closed under the global context
+Berkeley.CompilerData
+Berkeley.CompilerInstance
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerEntries
+Berkeley.CompilerReverse
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerEntries
+Repair.CompilerReverse
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerExecution
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerContexts
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPC
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorData
+Repair.ConstructorGraph
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerTrees
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerLoopBase
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeJumpBounds
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimePC
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeProgress
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeMacro
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeEnabled
+Closed under the global context
+Closed under the global context
+Berkeley.BootstrapTape
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BootstrapMachine
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BootstrapReplay
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.RuntimeEquivalence
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerExecution
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorFrame
+Closed under the global context
+Closed under the global context
+Repair.Frame
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorFrame
+Closed under the global context
+Repair.CompilerContexts
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionDispatch
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionOpcodes
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SyntaxData
+Repair.Certificate
+Closed under the global context
+Closed under the global context
+Repair.ConstructorStreams
+Closed under the global context
+Repair.GrammarExecutionBlocks
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionSelect
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionBodies
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.CompilerLoops
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorPaths
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpair
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpairFull
+Closed under the global context
+Closed under the global context
+Repair.ConstructorPairControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorPair
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorPairFull
+Closed under the global context
+Closed under the global context
+Repair.ConstructorPush
+Closed under the global context
+Closed under the global context
+Repair.ConstructorCons
+Closed under the global context
+Closed under the global context
+Repair.ConstructorParam
+Closed under the global context
+Repair.ConstructorTokensBase
+Closed under the global context
+Closed under the global context
+Repair.ConstructorTokensV
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorTokensCompound
+Closed under the global context
+Closed under the global context
+Repair.ConstructorTokens
+Closed under the global context
+Closed under the global context
+Repair.CompilerGrammar
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionRules
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecution
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionAxioms
+Closed under the global context
+Repair.GrammarExecutionConcrete
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpairGenericTree
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpairGeneric
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpairGenericFull
+Closed under the global context
+Closed under the global context
+Repair.ConstructorUnpairGenericInstances
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesDrain
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchSelectControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchSelectBranch
+Closed under the global context
+Closed under the global context
+Repair.SearchSelect
+Closed under the global context
+Repair.GrammarExecutionInstruction
+Closed under the global context
+Repair.GrammarExecutionProofSearch
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GrammarExecutionMPTokens
+Closed under the global context
+Repair.SearchPrimitivesEqControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesEq
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesEqBody
+Closed under the global context
+Repair.SearchCParamControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchCParamOne
+Closed under the global context
+Repair.SearchCParamNoPop
+Closed under the global context
+Closed under the global context
+Repair.SearchCParam
+Closed under the global context
+Repair.GrammarExecutionMPParameters
+Closed under the global context
+Repair.GrammarExecutionMPTransfer
+Closed under the global context
+Repair.GrammarExecutionMPBody
+Closed under the global context
+Repair.GrammarExecutionMPInstruction
+Closed under the global context
+Berkeley.ConstructorData
+Berkeley.ConstructorGraph
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerTrees
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPaths
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerLoopBase
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.CompilerLoops
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorUnpair
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPairControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPair
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPairFull
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorPush
+Closed under the global context
+Closed under the global context
+Repair.GuardCopy
+Closed under the global context
+Repair.GuardEqControl
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.ConstructorUnpairFull
+Closed under the global context
+Closed under the global context
+Repair.GuardEq
+Closed under the global context
+Closed under the global context
+Repair.GuardCompare
+Closed under the global context
+Repair.GuardTail
+Closed under the global context
+Closed under the global context
+Repair.GuardEmitter
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.GuardInstruction
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.RepairedUnion
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchGen
+Closed under the global context
+Repair.RepairedGen
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesHalt
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesDecode
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesSetup
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesClear
+Closed under the global context
+Closed under the global context
+Repair.SearchPrimitivesDecodeFull
+Closed under the global context
+Repair.SearchPrimitivesIteration
+Closed under the global context
+Closed under the global context
+Repair.SearchMachinePrefix
+Closed under the global context
+Closed under the global context
+Repair.SearchMachineProof
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.SearchMachineSwitch
+Closed under the global context
+Repair.SearchMachineUnion
+Closed under the global context
+Closed under the global context
+Repair.SearchMachineTheorem
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Repair.TheoryTheorem
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFConstant
+Closed under the global context
+Berkeley.BerkeleySyntaxZFCompositionFormula
+Closed under the global context
+Closed under the global context
+Berkeley.BerkeleySyntaxZFComposition
+Closed under the global context
+Repair.SemanticAudit
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context
+Closed under the global context

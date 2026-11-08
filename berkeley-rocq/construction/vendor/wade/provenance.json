@@ -1,0 +1,42 @@
+{
+  "repository": "https://github.com/Saoi2/turing_machine_explorer",
+  "commit": "08d539123f4369ae74a76619fdd391adc82de90c",
+  "retrieved": "2026-11-05",
+  "files": {
+    "README.md": {
+      "bytes": 1437,
+      "sha256": "037429e20015b8f7c4042210a2b190f6ae27bd1696800b2491291587b70d54f4",
+      "git_blob_sha1": "b6e2fd29aa96c53649a832f563ffd3ea60da0617"
+    },
+    "LICENSE": {
+      "bytes": 912,
+      "sha256": "c1dffee77db98625debe39b47538e1d2f3b7956cbc7bcd6ed9363701b2177cfa",
+      "git_blob_sha1": "ae57e3688ce6763766f545ab3ebeb79ae5336ef8"
+    },
+    "TMBuilder.py": {
+      "bytes": 30508,
+      "sha256": "00ae876e4ebaf398c6a4e3da09bdf24abc566fe3e2c3788a3c586d1683c40234",
+      "git_blob_sha1": "33a9a6c27708c4ee26f35ac6560ff66e842fbefd"
+    },
+    "tm.py": {
+      "bytes": 6537,
+      "sha256": "0ef5720cfc9c341827eb1780ad2ffaaa6092ad8e7d4630b949059aef6e4993fb",
+      "git_blob_sha1": "4efb5baa33560de03d4b2892817e40b4ab707d96"
+    },
+    "zf2.py": {
+      "bytes": 13358,
+      "sha256": "bd9a7035a3f98e12087c2e7f900f14034592068662c17abc0f9d0aa6683a1c96",
+      "git_blob_sha1": "36677ea1b6f453cdc900fee1e05d7bc10b66ea71"
+    },
+    "subtle.py": {
+      "bytes": 14068,
+      "sha256": "e340a9dbc027a8ba19712791bf9135010eb12ae462e32de18b2bf1fa527f1804",
+      "git_blob_sha1": "5cf4004975a58909a70aba53823f5cceab0f1266"
+    },
+    "tmdb.py": {
+      "bytes": 10563,
+      "sha256": "4ccf4dab37438109a350d77259b5eb52e33ce110a954cd2d56a218e84e653526",
+      "git_blob_sha1": "3d1678201e86ad9d2463583d6c8ba38ad4ec7c68"
+    }
+  }
+}

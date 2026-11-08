@@ -1,0 +1,29 @@
+{
+  "rocq": {
+    "version": "9.3.0",
+    "source": "https://github.com/rocq-prover/rocq/releases/download/V9.3.0/rocq-9.3.0.tar.gz",
+    "sha256": "3f0fc283e8644394aa9c7a6e3995b6d9ebbe1e6dda712bf431f9c372dcef95ad"
+  },
+  "stdlib": {
+    "version": "9.2.0",
+    "source": "https://github.com/rocq-prover/stdlib/releases/download/V9.2.0/stdlib-9.2.0.tar.gz",
+    "sha256": "f2ee1cb0b9af3e7b20625f0e9ec4becb7a27bb453d53b9bc0ea3d67bc8b3142c",
+    "source_hash_manifest": "pins/stdlib-sources.json"
+  },
+  "ocaml": "5.5.2",
+  "python_minimum": "3.9",
+  "python_packages": [],
+  "busycoq": {
+    "repository": "https://github.com/ccz181078/Coq-BB5",
+    "commit": "9142e219229baf2245d3f70851947230ea28a318",
+    "vendored": true
+  },
+  "construction_compiler": {
+    "repository": "https://github.com/Saoi2/turing_machine_explorer",
+    "commit": "08d539123f4369ae74a76619fdd391adc82de90c",
+    "vendored": true
+  },
+  "documentation_only": {
+    "tectonic": "0.17.0"
+  }
+}

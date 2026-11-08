@@ -1,0 +1,3 @@
+-Q .build/BusyCoq BusyCoq
+-Q .build/Berkeley Berkeley
+-Q .build/Repair Repair
